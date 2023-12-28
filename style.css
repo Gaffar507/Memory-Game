@@ -1,0 +1,12 @@
+#grid{
+    height: 20rem;
+    width: 30rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0 auto;
+    gap: .1rem;
+}
+img{
+    cursor: pointer;
+}
